@@ -8,7 +8,7 @@ relative_permalinks: false
 title:               Claudio David López
 tagline:             ''
 description:         ''
-url:                 https://claudiodavidlopez.github.io
+url:                 'https://claudiodavidlopez.github.io'
 baseurl:             ''
 plugins:             [jekyll-paginate]
 paginate:            5
@@ -17,7 +17,7 @@ paginate_path:       '/notes/page:num/'
 # About/contact
 author:
   name:              Claudio David López
-  url:               https://claudiodavidlopez.github.io
+  url:               'https://claudiodavidlopez.github.io'
   email:
 
 # Custom vars
