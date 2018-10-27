@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+
+# Setup
+title:               Claudio David López
+tagline:             ''
+description:         ''
+url:                 https://claudiodavidlopez.github.io
+baseurl:             ''
+plugins:             [jekyll-paginate]
+paginate:            5
+paginate_path:       '/notes/page:num/'
+
+# About/contact
+author:
+  name:              Claudio David López
+  url:               https://claudiodavidlopez.github.io
+  email:
+
+# Custom vars
+version:             1.0.0
