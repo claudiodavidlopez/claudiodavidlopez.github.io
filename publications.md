@@ -4,10 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+* **C. D. López**, M. Cvetković, A. A. van der Meer and P. Palensky, "Co-simulation of Intelligent Power Systems," in *Intelligent Integrated Energy Systems: The PowerWeb Program at TU Delft*, P. Palensky, M. Cvetković, T. Keviczky, Eds. Springer, 2019, pp. 99-119.  
+[[From publisher](https://www.springer.com/br/book/9783030000561#)]
+
 * **C. D. López**, M. Cvetković and P. Palensky, "Distributed Co-Simulation for Collaborative Analysis of Power System Dynamic Behavior," in *Proceedings of the MEDPOWER 2018 Conference*, Dubrovnik, 2018.  
 [[Free preprint](../pdf/Lopez2018a.pdf)]
 
-* **C. D. López**, J. L. Rueda-Torres, "Python Scripting for DIgSILENT PowerFactory: Leveraging the Python API for Scenario Manipulation and Analysis of Large Datasets," in *Advanced Smart Grid Functionalities Based on PowerFactory*, F. Gonzalez-Longatt, J. L. Rueda-Torres, Ed. Cham: Springer, 2018, pp. 19-48.  
+* **C. D. López**, J. L. Rueda-Torres, "Python Scripting for DIgSILENT PowerFactory: Leveraging the Python API for Scenario Manipulation and Analysis of Large Datasets," in *Advanced Smart Grid Functionalities Based on PowerFactory*, F. Gonzalez-Longatt, J. L. Rueda-Torres, Eds. Springer, 2018, pp. 19-48.  
 [[From publisher](https://link.springer.com/chapter/10.1007/978-3-319-50532-9_2)]
 
 * M. Cvetković, K. Pan, **C. D. López**, R. Bhandia, and P. Palensky, "Co-Simulation Aspects for Energy Systems with High Penetration of Distributed Energy Resources," in *Proceedings of the AEIT International Annual Conference*, Cagliari, 2017.  
