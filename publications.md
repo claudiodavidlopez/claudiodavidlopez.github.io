@@ -8,7 +8,7 @@ permalink: /publications/
 [[Open access](http://doi.org/10.1109/ACCESS.2019.2907773)]
 
 * **C. D. López**, M. Cvetković, A. A. van der Meer and P. Palensky, "Co-simulation of Intelligent Power Systems," in *Intelligent Integrated Energy Systems: The PowerWeb Program at TU Delft*, P. Palensky, M. Cvetković, T. Keviczky, Eds. Springer, 2019, pp. 99-119.  
-[[From publisher](https://doi.org/10.1007/978-3-030-00057-8)]
+[[From publisher](https://doi.org/10.1007/978-3-030-00057-8_5)]
 
 * **C. D. López**, M. Cvetković and P. Palensky, "Distributed Co-Simulation for Collaborative Analysis of Power System Dynamic Behavior," in *Proceedings of the MEDPOWER 2018 Conference*, Dubrovnik, 2018.  
 [[Free preprint](../pdf/Lopez2018a.pdf)]
