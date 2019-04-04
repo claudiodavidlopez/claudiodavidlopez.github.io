@@ -17,7 +17,7 @@ permalink: /publications/
 [[From publisher](https://doi.org/10.1007/978-3-319-50532-9_2)]
 
 * M. Cvetković, K. Pan, **C. D. López**, R. Bhandia and P. Palensky, "Co-Simulation Aspects for Energy Systems with High Penetration of Distributed Energy Resources," in *Proceedings of the AEIT International Annual Conference*, Cagliari, 2017.  
-[[Free preprint](../pdf/Cvetkovic2017b.pdf)] [[From publisher](10.23919/AEIT.2017.8240488)]
+[[Free preprint](../pdf/Cvetkovic2017b.pdf)] [[From publisher](https://doi.org/10.23919/AEIT.2017.8240488)]
 
 * M. Cvetković, H. Krishnappa, **C. D. López**, R. Bhandia, J. R. Rueda Torres and P. Palensky, "Co-simulation and dynamic model exchange with applications to wind projects," in *Proceedings of the 16th Wind Integration Workshop*, Berlin, 2017.  
 [[Free preprint](../pdf/Cvetkovic2017a.pdf)]
