@@ -8,16 +8,16 @@ permalink: /publications/
 [[Open access](http://doi.org/10.1109/ACCESS.2019.2907773)]
 
 * **C. D. López**, M. Cvetković, A. A. van der Meer and P. Palensky, "Co-simulation of Intelligent Power Systems," in *Intelligent Integrated Energy Systems: The PowerWeb Program at TU Delft*, P. Palensky, M. Cvetković, T. Keviczky, Eds. Springer, 2019, pp. 99-119.  
-[[From publisher](https://www.springer.com/br/book/9783030000561#)]
+[[From publisher](https://doi.org/10.1007/978-3-030-00057-8)]
 
 * **C. D. López**, M. Cvetković and P. Palensky, "Distributed Co-Simulation for Collaborative Analysis of Power System Dynamic Behavior," in *Proceedings of the MEDPOWER 2018 Conference*, Dubrovnik, 2018.  
 [[Free preprint](../pdf/Lopez2018a.pdf)]
 
 * **C. D. López** and J. L. Rueda-Torres, "Python Scripting for DIgSILENT PowerFactory: Leveraging the Python API for Scenario Manipulation and Analysis of Large Datasets," in *Advanced Smart Grid Functionalities Based on PowerFactory*, F. Gonzalez-Longatt, J. L. Rueda-Torres, Eds. Springer, 2018, pp. 19-48.  
-[[From publisher](https://link.springer.com/chapter/10.1007/978-3-319-50532-9_2)]
+[[From publisher](https://doi.org/10.1007/978-3-319-50532-9_2)]
 
 * M. Cvetković, K. Pan, **C. D. López**, R. Bhandia and P. Palensky, "Co-Simulation Aspects for Energy Systems with High Penetration of Distributed Energy Resources," in *Proceedings of the AEIT International Annual Conference*, Cagliari, 2017.  
-[[Free preprint](../pdf/Cvetkovic2017b.pdf)] [[From publisher](http://ieeexplore.ieee.org/document/8240488/)]
+[[Free preprint](../pdf/Cvetkovic2017b.pdf)] [[From publisher](10.23919/AEIT.2017.8240488)]
 
 * M. Cvetković, H. Krishnappa, **C. D. López**, R. Bhandia, J. R. Rueda Torres and P. Palensky, "Co-simulation and dynamic model exchange with applications to wind projects," in *Proceedings of the 16th Wind Integration Workshop*, Berlin, 2017.  
 [[Free preprint](../pdf/Cvetkovic2017a.pdf)]
@@ -26,19 +26,19 @@ permalink: /publications/
 [[Free preprint](../pdf/Pan2017a.pdf)]
 
 * **C. D. López**, A. A. van der Meer, M. Cvetković and P. Palensky, "A Variable-Rate Co-Simulation Environment for the Dynamic Analysis of Multi-Area Power Systems," in *Proceedings of the 12th IEEE PES PowerTech Conference*, Manchester, 2017.  
-[[Free preprint](../pdf/Lopez2017a.pdf)] [[From publisher](http://ieeexplore.ieee.org/document/7981117/)]
+[[Free preprint](../pdf/Lopez2017a.pdf)] [[From publisher](http://doi.org/10.1109/PTC.2017.7981117)]
 
 * P. Palensky, A. A. van der Meer, **C. D. López**, A. Joseph and K. Pan, "Applied Cosimulation of Intelligent Power Systems: Implementing Hybrid Simulators for Complex Power Systems," *IEEE Industrial Electronics Magazine*, vol. 11, no. 2, pp. 6-21, Jun. 2017.  
-[[Free preprint](../pdf/Palensky2017b.pdf)] [[From publisher](http://ieeexplore.ieee.org/document/7956310/)]
+[[Free preprint](../pdf/Palensky2017b.pdf)] [[From publisher](http://doi.org/10.1109/MIE.2017.2671198)]
 
 * P. Palensky, A. A. van der Meer, **C. D. López**, A. Joseph and K. Pan, "Cosimulation of Intelligent Power Systems: Fundamentals, Software Architecture, Numerics, and Coupling," *IEEE Industrial Electronics Magazine*, vol. 11, no. 1, pp. 34–50, Mar. 2017.  
-[[Free preprint](../pdf/Palensky2017a.pdf)] [[From publisher](http://ieeexplore.ieee.org/document/7883974/)]
+[[Free preprint](../pdf/Palensky2017a.pdf)] [[From publisher](http://doi.org/10.1109/MIE.2016.2639825)]
 
 * **C. D. López**, B. Idlbi, T. Stetz and M. Braun, "Shortening Quasi-Static Time-Series Simulations for Cost-Benefit Analysis of Low Voltage Network Operation with Photovoltaic Feed-In," in *Proceedings of the Power and Energy Student Summit PESS 2015*, Dortmund, 2015.  
-[[Open access](https://eldorado.tu-dortmund.de/handle/2003/33964)]
+[[Open access](https://doi.org/10.17877/DE290R-7108)]
 
 * **C. D. López**, "Shortening Time-Series Power Flow Simulations for Cost-Benefit Analysis of LV Network Operation with PV Feed-In." MSc. Thesis, Uppsala universitet, Uppsala, 2015.  
-[[Open access](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A782313&dswid=-6085)]
+[[Open access](https://nbn-resolving.org/urn:nbn:se:uu:diva-242099)]
 
 * **C. D. López**, "Decoding of Two-Dimensional Codes on Mobile Platforms." Engineering Thesis, Universidad de Concepción, Concepción, 2009.
 
