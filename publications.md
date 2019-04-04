@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+* **C. D. López**, M. Cvetković and P. Palensky, "Enhancing PowerFactory Dynamic Models with Python for Rapid Prototyping," in *Proceedings of the 28$^{th}$ IEEE International Symposium on Industrial Electronics*, Vancouver, Jun. 2019.  
+[[Free preprint](../pdf/Lopez2019a.pdf)] [[Repository](https://github.com/claudiodavidlopez/digexfunPyDSL)]
+
 * **C. D. López**, M. Cvetković and P. Palensky, "Speeding Up AC Circuit Co-Simulations through Selective Simulator Decoupling of Predictable States," *IEEE Access*, vol. 7, pp. 1-14, Apr. 2019.  
 [[Open access](http://doi.org/10.1109/ACCESS.2019.2907773)]
 
