@@ -7,7 +7,6 @@ I am pursuing a PhD in electrical engineering in the [Intelligent Electric Power
 
 For more details about me and my work, check out the following links:
 
-- [CV][cv]
 - [Publications][pub]
 - [LinkedIn][li]
 - [GitHub][gh]
